@@ -1,6 +1,5 @@
 """
     я так понял singleton используют для того чтоб в программе был только один обьект и использовтаь его можно с любого места
-    код был взять с этого сайта: https://refactoring.guru/ru/design-patterns/singleton/python/example#example-0
 """
 
 
